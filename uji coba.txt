@@ -1,0 +1,1 @@
+1. Pertama-pertama download terlebih dahulu git lewat homebrew.2. Setelah terinstall silakan cek terlebih dahulu untuk memastikan pada terminal.3. Jika sudah terinstall masukan akun di GitHub dan membuat repository.4. Langsung dari local membuat txt akan di commit ke GitHub.5. Terimakasih
